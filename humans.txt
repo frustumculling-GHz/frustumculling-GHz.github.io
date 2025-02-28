@@ -5,5 +5,5 @@
 
 You found my humans.txt. I'd be surprised if any (human) visitor thought to check this page (using the repository to read this doesn't count!). 
 Thank you for your interest in my website.
-Thank you to GitHub Pages, StackOverflow, W3Schools, and the rest of the multitude of free online resources that make it possible for an average person to program anything they want.
-Made with love by AS
+Thank you to GitHub Pages/Docs, StackOverflow, W3Schools, and the rest of the multitude of free online resources that make it possible for an average person to program anything they want.
+Handmade with love by AS
