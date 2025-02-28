@@ -1,0 +1,9 @@
+ ___  __        __  ___             __                 _ _       __  
+|__  |__) |  | /__`  |  |  |  |\/| /  ` |  | |    |     |  |\ | / _` 
+|    |  \ \__/ .__/  |  \__/  |  | \__/ \__/ |___ |___ _|_ | \| \__> 
+102  114  117  115  116  117  109   99  117  108  108  105  110  103 
+
+You found my humans.txt. I'd be surprised if any (human) visitor thought to check this page (using the repository to read this doesn't count!). 
+Thank you for your interest in my website.
+Thank you to GitHub Pages, StackOverflow, W3Schools, and the rest of the multitude of free online resources that make it possible for an average person to program anything they want.
+Made with love by AS
